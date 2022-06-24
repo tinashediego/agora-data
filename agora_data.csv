@@ -1,7 +1,6 @@
-﻿Country;;;;;;;;
-;Presence_of_Laws_that_affect_CSOs;Ease_of_Moving_Funds;Ease_of_Registration;Ease_of_fundraising_from_external_sources;Freedom_of_Expression ;Freedom_of_Assembly;Total_Score_out_of_30;ISO3
-Angola;4;4;4;2;4;4;22;AGO
-Botswana;4;2;1;2;4;4;17;BWA
+﻿Country,Presence_of_Laws_that_affect_CSOs,Ease_of_Moving_Funds,Ease_of_Registration,Ease_of_fundraising_from_external_sources,Freedom_of_Expression,Freedom_of_Assembly,Total_Score_out_of_30,ISO3
+Angola,4,4,4,2,4,2,AGO
+Botswana,4,2,1,2,4,4,17,BWA
 Eswatini;4;2;4;2;4;4;20;SWZ
 Lesotho;4;2;4;2;4;4;20;LSO
 Madagascar;3;2;2;2;2;2;13;MDG
@@ -12,4 +11,4 @@ South Africa;4;2;2;2;4;4;18;ZAF
 Tanzania;4;2;4;2;4;4;20;TZA
 Zambia;4;2;4;4;4;4;22;ZMB
 Zimbabwe;4;4;4;4;4;4;24;ZWE
-;;;;;;;;
+
