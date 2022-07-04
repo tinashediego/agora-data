@@ -1,4 +1,4 @@
-{{
+{countries:[{
       ADMIN: "Angola",
       Ease_of_Moving_Funds: 1,
       Ease_of_Registration: 2,
@@ -107,4 +107,4 @@
     ISO_A3: "ZAF",
     Presence_of_Laws_that_affect_CSOs: 9,
     totalScore: 5
-}}
+}]}
