@@ -7,7 +7,9 @@
       "Freedom_of_Expression": 4,
       "ISO_A3": "AGO",
       "Presence_of_Laws_that_affect_CSOs": 4,
-      "totalScore": 22
+      "totalScore": 22,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
   },
  {
     "ADMIN": "Botswana",
@@ -18,7 +20,10 @@
     "Freedom_of_Expression": 4,
     "ISO_A3": "BWA",
     "Presence_of_Laws_that_affect_CSOs": 1,
-    "totalScore": 17
+    "totalScore": 17,
+       "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Lesotho",
@@ -29,7 +34,10 @@
     "Freedom_of_Expression": 4,
     "ISO_A3": "LSO",
     "Presence_of_Laws_that_affect_CSOs": 4,
-    "totalScore": 20
+    "totalScore": 20,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Madagascar",
@@ -40,7 +48,10 @@
     "Freedom_of_Expression": 2,
     "ISO_A3": "MDG",
     "Presence_of_Laws_that_affect_CSOs": 3,
-    "totalScore": 13
+    "totalScore": 13,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Mozambique",
@@ -51,7 +62,10 @@
     "Freedom_of_Expression": 4,
     "ISO_A3": "MOZ",
     "Presence_of_Laws_that_affect_CSOs": 4,
-    "totalScore": 20
+    "totalScore": 20,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Malawi",
@@ -62,7 +76,10 @@
     "Freedom_of_Expression": 4,
     "ISO_A3": "MWI",
     "Presence_of_Laws_that_affect_CSOs": 4,
-    "totalScore": 20
+    "totalScore": 20,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Namibia",
@@ -73,7 +90,10 @@
     "Freedom_of_Expression": 2,
     "ISO_A3": "NAM",
     "Presence_of_Laws_that_affect_CSOs": 2,
-    "totalScore": 13
+    "totalScore": 13,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Eswatini",
@@ -84,7 +104,10 @@
     "Freedom_of_Expression": 3,
     "ISO_A3": "SWZ",
     "Presence_of_Laws_that_affect_CSOs": 9,
-    "totalScore": 2
+    "totalScore": 2,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "United Republic of Tanzania",
@@ -95,7 +118,10 @@
     "Freedom_of_Expression": 6,
     "ISO_A3": "TZA",
     "Presence_of_Laws_that_affect_CSOs": 8,
-    "totalScore": 2
+    "totalScore": 2,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "South Africa",
@@ -106,7 +132,10 @@
     "Freedom_of_Expression": 6,
     "ISO_A3": "ZAF",
     "Presence_of_Laws_that_affect_CSOs": 9,
-    "totalScore": 5
+    "totalScore": 5,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Zimbabwe",
@@ -117,7 +146,10 @@
     "Freedom_of_Expression": 6,
     "ISO_A3": "ZWE",
     "Presence_of_Laws_that_affect_CSOs": 9,
-    "totalScore": 5
+    "totalScore": 5,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 },
 {
     "ADMIN": "Zambia",
@@ -128,6 +160,9 @@
     "Freedom_of_Expression": 6,
     "ISO_A3": "ZMB",
     "Presence_of_Laws_that_affect_CSOs": 9,
-    "totalScore": 5
+    "totalScore": 5,
+      "Primary_Laws_Affecting_CSOS":"Law of Association (1991)",
+      "FeaturesOfTheLaw":"Prohibits NGOs from participating in state organ activities, electoral processes as well as influencing policy through government or parliament. (article 8)"
+
 }
   ]}
